@@ -1,5 +1,9 @@
 # Copilot.el
 
+> This is a fork of the original repository, https://github.com/copilot-emacs/copilot.el.
+> The branch dw/main is supposed to keep track of the main branch + additional
+> PRs I'm backporting on the original repository.
+
 Copilot.el is an Emacs plugin for GitHub Copilot.
 
 ![](assets/demo.gif)
